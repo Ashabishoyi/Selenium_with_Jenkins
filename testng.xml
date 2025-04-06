@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="maven_project.maven_package.two_testng"/>
+      
       <class name="maven_project.maven_package.testng_maven"/>
     </classes>
   </test> <!-- Test -->
