@@ -1,7 +1,7 @@
-package amazon_test_pom;
+//package amazon_test_pom;
 
-public class AmazonProductPage1 {
-
-	WebDriver driver;
-	@FindBy(xpath="//input")
-}
+//public class AmazonProductPage1 {
+//
+//	WebDriver driver;
+//	@FindBy(xpath="//input")
+//}
